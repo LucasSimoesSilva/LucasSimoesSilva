@@ -1,16 +1,26 @@
-### Hi there 👋
+### Bem vindo ao meu GitHub!
+#### Programas em desenvolvimento e uma trajetória
+</br>
 
-<!--
-**LucasSimoesSilva/LucasSimoesSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+#### Sistemas que costumo usar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</br>
+
+#### Skills
+![SKILLS](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SKILLS](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![SKILLS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![SKILLS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</br></br>
+
+##
+
+![LucasSimoesSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSimoesSilva&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSimoesSilva&theme=blue-green)
+
+##
+
+ ![Snake animation](https://github.com/LucasSimoesSilva/LucasSimoesSilva/blob/output/github-contribution-grid-snake.svg)
