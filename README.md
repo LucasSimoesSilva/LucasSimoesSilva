@@ -22,8 +22,8 @@
 
 ##
 
-![LucasSimoesSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSimoesSilva&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSimoesSilva&theme=blue-green)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassimoessilva&show_icons=true&locale=en" alt="lucassimoessilva" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassimoessilva&show_icons=true&locale=en&layout=compact" alt="lucassimoessilva" /></p>
 
 ##
 
