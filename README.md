@@ -3,7 +3,7 @@
 
 </br>
 
-### ⚡ Technologies:
+### 🤖 Technologies:
 
 - Languages
 
