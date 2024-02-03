@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassimoessilva&" alt="lucassimoessilva" /></p>
 
 
-![Snake animation](https://github.com/LucasSimoesSilva/LucasSimoesSilva/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LucasSimoesSilva/LucasSimoesSilva/blob/output/github-contribution-grid-snake.gif)
 
 
 ## 📱Social 
