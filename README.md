@@ -1,5 +1,5 @@
 <h1 align="center">😁 Hi, I'm Lucas Simões! Welcome to my Github</h1>
-<h3 align="center">📖 I'm 19 years old, from São Paulo and currently working as a QA in Inatel(Instituto Nacional de Telecomunicações).</h3>
+<h3 align="center">📖 I'm 20 years old, from São Paulo and currently working as a QA in Inatel(Instituto Nacional de Telecomunicações).</h3>
 
 </br>
 
